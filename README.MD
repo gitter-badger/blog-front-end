@@ -1,5 +1,5 @@
 # Frost Mango Blog Template
-!(mango-slice.jpg)[Logo]
+![Logo](mango-slice.jpg)
 ---
 
 **Author: Frost Mango Team**
