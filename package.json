@@ -1,0 +1,31 @@
+{
+  "name": "blog-front",
+  "version": "1.0.0",
+  "description": "![Logo](mango-slice.jpg) # Frost Mango Blog Template",
+  "main": "gulpfile.js",
+  "directories": {
+    "doc": "doc"
+  },
+  "dependencies": {
+    "gulp-express": "^0.3.5",
+    "gulp-concat": "^2.6.0",
+    "gulp-open": "^0.3.2",
+    "gulp-mcss": "^1.0.2",
+    "gulp-uglify": "^1.2.0",
+    "gulp-watch": "^4.2.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/FrostMango/blog-front-end.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FrostMango/blog-front-end/issues"
+  },
+  "homepage": "https://github.com/FrostMango/blog-front-end"
+}

@@ -1,0 +1,44 @@
+{
+  "name": "Frost Mango Blog Template",
+  "version": "1.0.0",
+  "homepage": "https://github.com/FrostMango/blog-front-end",
+  "authors": [
+    "prio101 <miprio101@gmail.com>"
+  ],
+  "description": "This is the template for the Frost mango Official site",
+  "main": "index.html",
+  "moduleType": [
+    "node"
+  ],
+  "keywords": [
+    "blog",
+    "template",
+    "front",
+    "end",
+    "Frost",
+    "Mango"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "animate.css": "~3.3.0",
+    "bootstrap": "~3.3.5",
+    "font-awesome": "~4.3.0",
+    "bootstrapvalidator": "~0.5.3",
+    "fontface-source-sans-pro": "*",
+    "google-code-prettify": "~1.0.4",
+    "headroom.js": "~0.7.0",
+    "highlightjs": "~8.5.0",
+    "html5-boilerplate": "~5.2.0",
+    "jquery.scrollTo": "~2.1.1",
+    "owl-carousel2": "~2.0.0-beta.3",
+    "photoswipe": "~4.0.8",
+    "simple-line-icons": "~1.0.0"
+  }
+}
